@@ -9,7 +9,7 @@ const Header: React.FC = () => {
         <div className="right-side">
           <div>
             <a
-              href="https://github.com/mk-tdev/react-npm-clone"
+              href="https://github.com/encepsuryana/npmjs-clone"
               target="_blank"
               rel="noreferrer"
             >
@@ -18,16 +18,7 @@ const Header: React.FC = () => {
           </div>
           <div>
             <a
-              href="https://mk-tdev.github.io/mk-tdev/mk/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Portfolio
-            </a>
-          </div>
-          <div>
-            <a
-              href="https://www.linkedin.com/in/muthukumar-dev/"
+              href="https://www.linkedin.com/in/encep-suryana-b60080113/"
               target="_blank"
               rel="noreferrer"
             >
