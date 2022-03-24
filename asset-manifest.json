@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/npmjs-clone/static/css/main.201ad1fc.css",
+    "main.js": "/npmjs-clone/static/js/main.b29c9c34.js",
+    "index.html": "/npmjs-clone/index.html",
+    "static/media/npm.svg": "/npmjs-clone/static/media/npm.25781a06acc37e8e29925a626db8fd95.svg",
+    "main.201ad1fc.css.map": "/npmjs-clone/static/css/main.201ad1fc.css.map",
+    "main.b29c9c34.js.map": "/npmjs-clone/static/js/main.b29c9c34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201ad1fc.css",
+    "static/js/main.b29c9c34.js"
+  ]
+}
